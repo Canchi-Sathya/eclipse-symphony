@@ -1,2 +1,2 @@
 # eclipse-symphony
-Eclipse Symphony
+Eclipse Symphony - IOT Monitoring
